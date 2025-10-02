@@ -1,4 +1,4 @@
-# Coursework Repository – Image Classification and Generation  
+# Image Classification and Generation Investigation
 
 ## Overview  
 This repository contains coursework developed as part of my AI and Deep Learning studies. The main focus of the submission is the accompanying report, which discusses a series of questions and problem-solving approaches.  
